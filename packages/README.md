@@ -7,4 +7,5 @@
 
 名称|描述|备注
 :---:|:---:|:---
-[4NSwfY](./4NSwfY) | Requests
+[4NSwfY](./4NSwfY) | `Requests`
+[5UiLH8](./5UiLH8) | `BeautifulSoup`

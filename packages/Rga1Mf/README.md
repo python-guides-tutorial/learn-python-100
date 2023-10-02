@@ -11,7 +11,7 @@ pip install selenium
 ## Drivers
 
 ```bash
-brew install chromedriver
+brew install google-chrome chromedriver
 ```
 
 ## Ref

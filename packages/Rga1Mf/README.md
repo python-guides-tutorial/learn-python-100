@@ -17,6 +17,7 @@ brew install google-chrome chromedriver
 ## Selenium IDE
 
 * <https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd>
+* <https://www.seleniumhq.org/selenium-ide/docs/en/introduction/command-line-runner/>
 
 ## Ref
 

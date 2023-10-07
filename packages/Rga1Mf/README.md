@@ -14,6 +14,10 @@ pip install selenium
 brew install google-chrome chromedriver
 ```
 
+## Selenium IDE
+
+* <https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd>
+
 ## Ref
 
 * <https://pypi.org/project/selenium/>
